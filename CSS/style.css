@@ -23,10 +23,11 @@ body{
     list-style-type: none;
     color: #000000;
     margin-left: 0px;
+    cursor: pointer;
 }
 
 .informacoes{
-    display: inline-flex;
+    display: inline-block;
 }
 
 .foto img{
@@ -45,8 +46,8 @@ body{
 .texto{
     width: 59%;
     height: 59%;
-    margin-left: 55px;
-    margin-top: -105px;
+    margin-left: 450px;
+    margin-top: -530px;
 }
 
 .texto h1{
