@@ -175,6 +175,20 @@ body {
     color: gray;
 }
 
+.proj li {
+    width: 300px;
+    margin-bottom: 10px;
+}
+
+.proj img {
+    width: 400px;
+}
+
+.imgprojeto img {
+    width: 250px;
+    height: 250px;
+}
+
 @keyframes profile-informacoes {
     0% {transform: translate(0px, 20px)}
     100% {transform: translate(0px, 0px)}
