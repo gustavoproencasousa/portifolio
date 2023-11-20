@@ -4,11 +4,11 @@ html, body {
 }
 
 body {
-    background-color: #BAEDE7;
+    background-color: #5BCDEB;
 }
 
 .cabeca {
-    background-color: #5BCDEB;
+    background-color: #BAEDE7;
     color: white;
     height: 56px;
     animation-duration: 4s;
