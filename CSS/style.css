@@ -98,6 +98,34 @@ body {
     padding-left: 100px;*/
 }
 
+.social ul {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    list-style: none;
+}
+
+.social ul a {
+    display: block;
+    padding: 10px;
+}
+
+.social ul li a img {
+    max-width: 70px;
+    margin: 0;
+}
+
+.social ul li a img {
+    max-width: 70px;
+    margin: 0;
+    transition: transform 0.3s ease;
+}
+
+.social ul li a img:hover {
+    transform: scale(1.2);
+}
+
+
 .cv-pic {
     float: left;
     width: 250px;
@@ -122,7 +150,7 @@ body {
 
 .main h3 {
     color: #f27609;
-    font-size: 12px;
+    font-size: 17px;
 }
 
 .main p {
